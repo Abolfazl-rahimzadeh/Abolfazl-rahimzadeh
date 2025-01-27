@@ -34,7 +34,7 @@ I'm an Iranian computer sience student and content creator building my version o
 
 #
 
-![ASAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abolfazl-rahimzadeh&show_icons=true&theme=gruvbox)
+![ASAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abolfazl-rahimzadeh&show_icons=true&theme=blackbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Abolfazl-rahimzadeh&theme=gruvbox&border_radius=4.5) -->
 
