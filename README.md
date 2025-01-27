@@ -34,6 +34,11 @@ I'm an Iranian computer sience student and content creator building my version o
 
 #
 
+![ASAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abolfazl-rahimzadeh&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Abolfazl-rahimzadeh&theme=gruvbox&border_radius=4.5) -->
+
+
 <!--
 **Abolfazl-rahimzadeh/Abolfazl-rahimzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
