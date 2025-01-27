@@ -40,5 +40,5 @@ I'm an Iranian computer sience student and content creator building my version o
 
 <details>
  <summary><h3>ASAS's life</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory, math. And all the while, teaching myself C family development (specially C#) with a dream to build my own app. and now I'm here to slowly learn and tell people what I've learned.
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world including code, unix, linux, theory, math. And all the while, teaching myself C family development (specially C#) with a dream to build my own app. and now I'm here to slowly learn and tell people what I've learned.
 ASAS (ALFI)
