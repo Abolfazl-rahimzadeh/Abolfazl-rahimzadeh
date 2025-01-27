@@ -1,7 +1,7 @@
 
 # Abolfazl-rahimzadeh
 
-**Digital Craftsman (Developer/Filmmaker/Creator)**
+**Digital Craftsman (Developer/Creator/Student)**
 
 I'm an Iranian computer sience student and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish some videos every week on my [YouTube channel](https://www.youtube.com/@Abolfazl-rahimzadeh).
 
