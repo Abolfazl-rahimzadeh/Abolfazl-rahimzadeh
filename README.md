@@ -17,7 +17,7 @@ I'm an Iranian computer sience student and content creator building my version o
 </p>
 
 ---
-
+<!--
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -33,7 +33,7 @@ I'm an Iranian computer sience student and content creator building my version o
 <br />
 
 #
-
+-->
 ![ASAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abolfazl-rahimzadeh&show_icons=true&theme=dark)
 
 #
