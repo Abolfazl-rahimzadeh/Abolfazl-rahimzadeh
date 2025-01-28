@@ -9,7 +9,7 @@ I'm an Iranian computer sience student and content creator building my version o
   <a href="https://www.youtube.com/@Abolfazl-rahimzadeh?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC0ET-FULwBJ-D2-2YTBERPg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/@Abolfazl-rahimzadeh">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC0ET-FULwBJ-D2-2YTBERPg?color=%2321ADE0&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC0ET-FULwBJ-D2-2YTBERPg?color=C79600&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/abolfazl-rahimzadeh?tab=followers">
     <img alt="github followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Abolfazl-rahimzadeh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/abolfazl-rahimzadeh?tab=repositories&sort=stargazers">
