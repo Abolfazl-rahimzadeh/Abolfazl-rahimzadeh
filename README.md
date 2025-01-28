@@ -7,7 +7,7 @@ I'm an Iranian computer sience student and content creator building my version o
 
 <p align="left">
   <a href="https://www.youtube.com/@Abolfazl-rahimzadeh?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@Abolfazl-rahimzadeh?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/Abolfazl-rahimzadeh?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/@Abolfazl-rahimzadeh">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/YOUR_CHANNEL_ID?color=%2321ADE0&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/abolfazl-rahimzadeh?tab=followers">
